@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## a very simple front-end templating demo using underscore and jQuery
 
 *DESCRIPTION*
@@ -6,3 +7,9 @@
 
 *NOTES*
 - You may see an error of same origin policy if you run this demo locally without a webserver. I didn't notice this issue with firefox. If you are using chrome there is pleny of documentation out there on how to disable web security.
+=======
+ui-templates-demo
+=================
+
+Loading views/template/partials using ajax with underscore and jQuery. Useful method of separating html from javascript
+>>>>>>> 5a6c81038115a49e5a6760449ad41ffe6bce0942
