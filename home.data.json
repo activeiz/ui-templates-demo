@@ -1,0 +1,7 @@
+{
+    "name": "This is a demo page",
+    "description": "the text you see here was parsed using underscore template and rendered with jquery ajax data",
+    "subject": "JavaScript templating",
+    "authorName": "activeiz",
+    "url": "github.com/activeiz/underscore-tempate-demo"
+}
