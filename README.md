@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## a very simple front-end templating demo using underscore and jQuery
 
 *DESCRIPTION*
@@ -12,4 +11,3 @@ ui-templates-demo
 =================
 
 Loading views/template/partials using ajax with underscore and jQuery. Useful method of separating html from javascript
->>>>>>> 5a6c81038115a49e5a6760449ad41ffe6bce0942
