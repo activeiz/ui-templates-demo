@@ -29,7 +29,7 @@ $(function(){
 				 });
 	
 	//get data
-  $.ajax({url: "home.data.json",
+  $.ajax({url: "model/home.data.json",
 					async: true,
 					dataType: "json",
 					success: dataCallback,
