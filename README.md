@@ -1,7 +1,7 @@
 ## a very simple front-end templating demo using underscore and jQuery
 
-*DESCRIPTION*
-- Demo implementation of ui templates using underscore's templating with default format erb style. 
+1. *DESCRIPTION*
+    Demo implementation of ui templates using underscore's templating with default format erb style. 
 - Template data will be loaded via jQuery.ajax
 
 *NOTES*
